@@ -1,0 +1,14 @@
+cff-version: 1.1.0
+message: If you use this software, please cite it as below.
+authors:
+  - name: RegulonDB
+    country: MX
+    email: regulondb@ccg.unam.mx
+    website: https://regulondb.ccg.unam.mx/
+date-released: YYYY-MM-DD
+doi: [example: 10.5281/zenodo.1003150]
+license: MIT
+repository-code: [URL: https://regulondb.ccg.unam.mx/]
+title: [CC_Process: CC_Process]
+url: [URL: https://regulondb.ccg.unam.mx/]
+version: 12.0.1
