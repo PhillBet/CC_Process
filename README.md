@@ -1,16 +1,16 @@
-# [Software name]
+# Consistency Checking Process
 
 # Description
 
-[High-level description, describing what exactly software does.]
+Consistency Checking Process for RegulonDB Regulatory Interactions and Regulatory Sites.
 
 # Motivation
 
-[Why the software does things the way it does and why it was designed in the first place. What problems are solved by it. Links to publications and comparisons to similar software.]
+Consistency Checking to detect inconsistencies and errors in Release data
 
 # System requirements
 
-[If the software does make high demand on particular resources, then this should be clearly advertised and explained.]
+python 3.10
 pymongo = 3.12.1
 
 # Install
@@ -27,7 +27,7 @@ pymongo = 3.12.1
 
 # License
 
-[Defines the set of rules and conditions for people who want to use the software.]
+Apache License
 
 # Support contact information
 
